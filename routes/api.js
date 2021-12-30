@@ -9,9 +9,9 @@ var kuhong = db.get('ojan'); // jan diubah
 	console.log('WELCOME TO ZyxMapLe API!') // boleh diubah
 }
 
-var creatorList = ['Rama Ganz']; // Nama Lu Ngab
+var creatorList = ['Tones Allan']; // Nama Lu Ngab
 var creator = creatorList[Math.floor(Math.random() * creatorList.length)]; // Ini jan diubah
-var key = 'ramaganzapikey' // Apikey Lu Ngab
+var key = 'tones' // Apikey Lu Ngab
 
 // Required Modules :
 var ffmpeg = require('fluent-ffmpeg');
